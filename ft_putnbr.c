@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include "functons.h"
+#include "functions.h"
 
 void	ft_putnbr(long number)
 {

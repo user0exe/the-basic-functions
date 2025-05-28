@@ -8,5 +8,6 @@ void	ft_print_int_ptr(int *number);
 int		ft_is_valid_base(char *base);
 void	ft_swap(int num1, int num2);
 int		ft_strcmp(char *str1, char *str2);
+void	ft_upper(char *str);
 
 #endif
