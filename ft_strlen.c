@@ -1,5 +1,5 @@
 #include "functions.h"
-
+/* function return the length of string*/
 int	ft_strlen(char *str)
 {
 	int	index;

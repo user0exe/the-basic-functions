@@ -1,5 +1,6 @@
 #include "functions.h"
-
+/* comparison function return the differnt of two strings,
+from the first mismatch its faceing*/
 int	ft_strcmp(char *str1, char *str2)
 {
 	int	index;

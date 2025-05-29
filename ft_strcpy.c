@@ -1,5 +1,6 @@
 #include "functions.h"
-
+/* function that copy the source string pointer 
+   into destination string pointer.*/
 char	*ft_strcpy(char *dest, char *src)
 {
 	int	index;

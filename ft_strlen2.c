@@ -1,5 +1,5 @@
 #include "functions.h"
-
+/*a short version*/
 int	ft_strlen(char *str)
 {
 	int	count;

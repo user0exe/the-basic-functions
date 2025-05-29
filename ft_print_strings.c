@@ -1,18 +1,19 @@
 #include <unistd.h>
+#include "functons.h"
 
 // Porototype of the ft.
-void	print_strings(char **strings);
+void	ft_print_strings(char **strings);
 
 // Main ft with argument passing.
 int	main(int argc, char **argv)
 {
 	(void)argc;
-	print_strings(argv);
+	ft_print_strings(argv);
 	return (0);
 }
 
 //Fucntion print thes srings passed as arguments.
-void	print_strings(char **strings)
+void	ft_print_strings(char **strings)
 {
 	int	i;
 	int	j;

@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include "functions.h"
 
+/*function to uppercase a string*/
 void	ft_upper(char *str)
 {
 	int		i;
