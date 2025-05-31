@@ -1,5 +1,3 @@
-#include "structs.h"
-
 void	ft_strdup(char	*dist, char *src)
 {
 	int	i;
